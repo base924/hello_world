@@ -1,2 +1,3 @@
 # hello_world
 Ideas...
+Hi! Mathematics teacher at business college in Copenhagen. Searching for inspiration and ressources to advance the teaching of math.
